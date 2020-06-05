@@ -31,7 +31,7 @@ In this module, you will learn about data visualization and some of the best pra
 
 In this module, you learn about area plots and how to create them with Matplotlib, histograms and how to create them with Matplotlib, bar charts, and how to create them with Matplotlib, pie charts, and how to create them with Matplotlib, box plots and how to create them with Matplotlib, and scatter plots and bubble plots and how to create them with Matplotlib.
 
-***Graded:*** Basic Visualization Tools
+***Graded:*** Basic Visualization Tools\
 ***Graded:*** Specialized Visualization Tools
 
 ### WEEK 3
@@ -40,8 +40,8 @@ In this module, you learn about area plots and how to create them with Matplotli
 
 In this module, you will learn about advanced visualization tools such as waffle charts and word clouds and how to create them. You will also learn about seaborn, which is another visualization library, and how to use it to generate attractive regression plots. In addition, you will learn about Folium, which is another visualization library, designed especially for visualizing geospatial data. Finally, you will learn how to use Folium to create maps of different regions of the world and how to superimpose markers on top of a map, and how to create choropleth maps.
 
-***Graded:*** Advanced Visualization Tools
-***Graded:*** Visualizing Geospatial Data
+***Graded:*** Advanced Visualization Tools\
+***Graded:*** Visualizing Geospatial Data\
 ***Graded:*** Final Assignment
 
 This course is part of the 'IBM Data Science Professional Certificate'\
