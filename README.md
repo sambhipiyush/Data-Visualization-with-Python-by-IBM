@@ -22,7 +22,15 @@ The main goal of this Data Visualization with Python course is to teach you how 
 #### Introduction to Data Visualization Tools
 
 In this module, you will learn about data visualization and some of the best practices to keep in mind when creating plots and visuals. You will also learn about the history and the architecture of Matplotlib and learn about basic plotting with Matplotlib. In addition, you will learn about the dataset on immigration to Canada, which will be used extensively throughout the course. Finally, you will briefly learn how to read csv files into a pandas dataframe and process and manipulate the data in the dataframe, and how to generate line plots using Matplotlib.
-
+```
+Topics to Cover
+    * Introduction to Data Visualization
+    * Introduction to Matplotlib
+    * Basic Plotting with Matplotlib
+    * Dataset on Immigration to Canada
+    * Line Plots
+```
+***Lab:*** Introduction to Matplotlib and Line Plots
 ***Graded:*** Introduction to Data Visualization Tools
 
 ### WEEK 2
@@ -30,7 +38,18 @@ In this module, you will learn about data visualization and some of the best pra
 #### Basic and Specialized Visualization Tools
 
 In this module, you learn about area plots and how to create them with Matplotlib, histograms and how to create them with Matplotlib, bar charts, and how to create them with Matplotlib, pie charts, and how to create them with Matplotlib, box plots and how to create them with Matplotlib, and scatter plots and bubble plots and how to create them with Matplotlib.
-
+```
+Topics to Cover 
+    * Area Plots
+    * Histograms
+    * Bar Charts
+    * Pie Charts
+    * Box Plots
+    * Scatter Plots
+    * Bubble Plots
+```
+***Lab:*** Basic Visualization Tools\
+***Lab:*** Specialized Visualization Tools\
 ***Graded:*** Basic Visualization Tools\
 ***Graded:*** Specialized Visualization Tools
 
@@ -39,7 +58,17 @@ In this module, you learn about area plots and how to create them with Matplotli
 #### Advanced Visualizations and Geospatial Data
 
 In this module, you will learn about advanced visualization tools such as waffle charts and word clouds and how to create them. You will also learn about seaborn, which is another visualization library, and how to use it to generate attractive regression plots. In addition, you will learn about Folium, which is another visualization library, designed especially for visualizing geospatial data. Finally, you will learn how to use Folium to create maps of different regions of the world and how to superimpose markers on top of a map, and how to create choropleth maps.
-
+```
+Topics to Cover 
+    * Waffle Charts
+    * Word Clouds
+    * Seaborn and Regression Plots
+    * Introduction to Folium and Map Styles
+    * Maps with Markers
+    * Choropleth Maps
+```    
+***Lab:*** Advanced Visualization Tools\
+***Lab:*** Creating Maps and Visualizing Geospatial Data\
 ***Graded:*** Advanced Visualization Tools\
 ***Graded:*** Visualizing Geospatial Data\
 ***Graded:*** Final Assignment
