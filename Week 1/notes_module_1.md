@@ -80,7 +80,7 @@ by IBM
 
 
 ##### Basic Plotting with Matplotlib
-
+#
 > Jupyter Notebook is, it's an open source web application that allows you to create and share documents that contain live code visualizations and some explanatory text as well
 > Jupyter has some specialized support for Matplotlib and so if you start a Jupyter notebook, all you have to do is import Matplotlib and you're ready to go
 
@@ -103,7 +103,7 @@ by IBM
 
 
 ##### Line Plots
-
+#
 > A **line chart** or **line plot** is a type of plot which displays information as a series of data points called **markers** connected by straight line segments.
 It is a basic type of chart common in many fields.
 Use line plot when you have a continuous data set.
